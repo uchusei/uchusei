@@ -2,7 +2,7 @@
 
 ### Senior Product Manager / Product Lead.<br/>
 
-I turn high-level ideas into practical implementation at the intersection of communication, business, and tech.
+I turn high-level strategies into practical implementation at the intersection of communication, business, and tech.
 
 My background spans design, code, communications, strategy and content. That mix lets me move easily between teams and connect dots. I combine senior-level UX/Design, product ownership, growth thinking, and technical understanding.
 
