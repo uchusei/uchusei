@@ -1,6 +1,6 @@
 <img width="3763" height="1489" alt="banner-github-wowen" src="https://github.com/user-attachments/assets/e6541763-f173-4574-be17-251d24681781" />
 
-### Senior Product Manager / Product Lead.<br/>
+### Senior Product Owner / Product Manager / Product Lead.<br/>
 
 I turn high-level strategies into practical implementation at the intersection of communication, business, and tech.
 
