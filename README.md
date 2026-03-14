@@ -13,7 +13,7 @@ Outside of work, I’m a classical music composer and multidisciplinary creative
 
 Here: Occasionally share personal product ideas, prototypes, and small experimental builds.
 
-Currently deepening my focus on ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Security-darkred) and ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Research-darkred).
+Currently deepening my focus on ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-222222?logo=hackaday&logoColor=white).
 
 ## Product
 
