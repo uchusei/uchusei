@@ -84,8 +84,8 @@ Currently deepening my focus on ![Cybersecurity](https://img.shields.io/badge/Cy
 
 ## Contact
 
-📧 emma@wowen.se
-🔗 https://www.wowen.se/
-🔗 https://www.linkedin.com/in/emmahager/
+📧 emma@wowen.se <br/> 
+🔗 https://www.wowen.se/ <br/> 
+🔗 https://www.linkedin.com/in/emmahager/ <br/> 
 
 
