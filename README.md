@@ -55,11 +55,9 @@ Currently deepening my focus on ![Cybersecurity](https://img.shields.io/badge/Cy
 
 ## AI
 
-![OpenAI](https://img.shields.io/badge/OpenAI-LLM-black?logo=openai)
-![Prompt Engineering](https://img.shields.io/badge/Prompt-Engineering-black)
-![AI Prototyping](https://img.shields.io/badge/AI-Prototyping-black)
-![Ollama](https://img.shields.io/badge/Ollama-black)
-![AI Workflows](https://img.shields.io/badge/AI-Workflows-black)
+![AI Pair Programming](https://img.shields.io/badge/AI-Pair%20Programming-black)
+![OpenAI API](https://img.shields.io/badge/OpenAI-API-black?logo=openai)
+![LLM Integration](https://img.shields.io/badge/LLM-Integration-black)
 ![Automation](https://img.shields.io/badge/Automation-black)
 
 ## Creative
