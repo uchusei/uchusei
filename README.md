@@ -1,4 +1,4 @@
-<img width="3852" height="1524" alt="wowen-github" src="https://github.com/user-attachments/assets/d7732b42-2287-4817-9ff2-272d56cce0bb" />
+<img width="3852" height="1524" alt="wowen-github" src="wowen-logos.svg" />
 
 # Senior Product Owner / Product Manager / Product Lead.<br/>
 
