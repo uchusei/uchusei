@@ -1,6 +1,6 @@
 <img width="3852" height="1524" alt="wowen-github" src="wowen-logos.svg" />
 
-# Senior Product Owner / Product Manager / Product Lead.<br/>
+# Senior Product Owner / Product Lead.<br/>
 
 I turn high-level strategies into practical implementation at the intersection of communication, business, and tech.
 
