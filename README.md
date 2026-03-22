@@ -1,89 +1,99 @@
-<img width="3852" height="1524" alt="wowen-github" src="wowen-logos.svg" />
+<div align="center">
+  <img width="3852" height="1524" alt="wowen-github" src="wowen-logos.svg" />
+</div>
 
-# Senior Product Owner / Product Lead.<br/>
+<br/>
 
-I turn high-level strategies into practical implementation at the intersection of communication, business, and tech.
+# Senior Product Owner / Product Lead
+
+> I turn high-level strategies into practical implementation at the intersection of communication, business, and tech.
 
 My background spans design, code, communications, strategy and content. That mix lets me move easily between teams and connect dots. I combine senior-level UX/Design, product ownership, growth thinking, and technical understanding.
 
-One of my strongest traits is that I'm a spin doctor. I see gaps others overlook. I spot unbuilt opportunities, weak positioning, and cost leaks fast. 
-I like building what isn’t built yet – and cutting what shouldn’t be there.
+One of my strongest traits is that I'm a spin doctor. I see gaps others overlook – unbuilt opportunities, weak positioning, and cost leaks. I like building what isn't built yet, and cutting what shouldn't be there.
 
-Outside of work, I’m a classical music composer and multidisciplinary creative.
+Outside of work, I'm a classical music composer and multidisciplinary creative.  
+Here: occasionally sharing personal product ideas, prototypes, and small experimental builds.  
+Currently deepening my focus on **Cybersecurity**.
 
-Here: Occasionally share personal product ideas, prototypes, and small experimental builds.
+---
 
-Currently deepening my focus on ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-222222?logo=hackaday&logoColor=white).
+## 🎧 Code & Music
 
-## Product
+<p align="center">
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uchusei&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+   &nbsp;&nbsp;
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=emmahagr&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=91ff6a&bar_color_cover=true&mode=dark">
+  </a>
+</p>
 
-![Product Leadership](https://img.shields.io/badge/Product-Leadership-black)
-![Product Management](https://img.shields.io/badge/Product-Management-black)
-![Product Strategy](https://img.shields.io/badge/Product-Strategy-black)
-![Product Discovery](https://img.shields.io/badge/Product-Discovery-black)
-![Product Ownership](https://img.shields.io/badge/Product-Ownership-black)
-![UX Thinking](https://img.shields.io/badge/UX-Thinking-black)
-![Rapid Prototyping](https://img.shields.io/badge/Rapid-Prototyping-black)
-![Concept Development](https://img.shields.io/badge/Concept-Development-black)
-![MVP Development](https://img.shields.io/badge/MVP-Development-black)
+---
 
-## Design
+## 🛠 Skills
 
-![UX Design](https://img.shields.io/badge/UX-Design-orange)
-![UI Design](https://img.shields.io/badge/UI-Design-orange)
-![Design Systems](https://img.shields.io/badge/Design-Systems-orange)
-![Interaction Design](https://img.shields.io/badge/Interaction-Design-orange)
-![Information Architecture](https://img.shields.io/badge/Information-Architecture-orange)
-![Web Design](https://img.shields.io/badge/Web-Design-orange)
-![Branding](https://img.shields.io/badge/Branding-orange)
-![Logo Design](https://img.shields.io/badge/Logo-Design-orange)
-![Editorial Design](https://img.shields.io/badge/Editorial-Design-orange)
-![Book Production](https://img.shields.io/badge/Book-Production-orange)
+### Product
+![Product Leadership](https://img.shields.io/badge/Product_Leadership-0d1117?style=flat-square&logoColor=white)
+![Product Management](https://img.shields.io/badge/Product_Management-0d1117?style=flat-square&logoColor=white)
+![Product Strategy](https://img.shields.io/badge/Product_Strategy-0d1117?style=flat-square&logoColor=white)
+![Product Discovery](https://img.shields.io/badge/Product_Discovery-0d1117?style=flat-square&logoColor=white)
+![Product Ownership](https://img.shields.io/badge/Product_Ownership-0d1117?style=flat-square&logoColor=white)
+![UX Thinking](https://img.shields.io/badge/UX_Thinking-0d1117?style=flat-square&logoColor=white)
+![Rapid Prototyping](https://img.shields.io/badge/Rapid_Prototyping-0d1117?style=flat-square&logoColor=white)
+![Concept Development](https://img.shields.io/badge/Concept_Development-0d1117?style=flat-square&logoColor=white)
+![MVP Development](https://img.shields.io/badge/MVP_Development-0d1117?style=flat-square&logoColor=white)
 
-## Development
+### Design
+![UX Design](https://img.shields.io/badge/UX_Design-1a1a2e?style=flat-square&logoColor=white)
+![UI Design](https://img.shields.io/badge/UI_Design-1a1a2e?style=flat-square&logoColor=white)
+![Design Systems](https://img.shields.io/badge/Design_Systems-1a1a2e?style=flat-square&logoColor=white)
+![Interaction Design](https://img.shields.io/badge/Interaction_Design-1a1a2e?style=flat-square&logoColor=white)
+![Information Architecture](https://img.shields.io/badge/Information_Architecture-1a1a2e?style=flat-square&logoColor=white)
+![Web Design](https://img.shields.io/badge/Web_Design-1a1a2e?style=flat-square&logoColor=white)
+![Branding](https://img.shields.io/badge/Branding-1a1a2e?style=flat-square&logoColor=white)
+![Logo Design](https://img.shields.io/badge/Logo_Design-1a1a2e?style=flat-square&logoColor=white)
+![Editorial Design](https://img.shields.io/badge/Editorial_Design-1a1a2e?style=flat-square&logoColor=white)
+![Book Production](https://img.shields.io/badge/Book_Production-1a1a2e?style=flat-square&logoColor=white)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
+### Development
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-## AI
+### AI
+![AI Pair Programming](https://img.shields.io/badge/AI_Pair_Programming-7928CA?style=flat-square&logoColor=white)
+![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
+![LLM Integration](https://img.shields.io/badge/LLM_Integration-7928CA?style=flat-square&logoColor=white)
+![Automation](https://img.shields.io/badge/Automation-7928CA?style=flat-square&logoColor=white)
 
-![AI Pair Programming](https://img.shields.io/badge/AI-Pair%20Programming-black)
-![OpenAI API](https://img.shields.io/badge/OpenAI-API-black?logo=openai)
-![LLM Integration](https://img.shields.io/badge/LLM-Integration-black)
-![Automation](https://img.shields.io/badge/Automation-black)
+### Creative
+![Music Composition](https://img.shields.io/badge/Music_Composition-FF4444?style=flat-square&logoColor=white)
+![Multimedia Production](https://img.shields.io/badge/Multimedia_Production-FF4444?style=flat-square&logoColor=white)
+![Visual Design](https://img.shields.io/badge/Visual_Design-FF4444?style=flat-square&logoColor=white)
+![Video Editing](https://img.shields.io/badge/Video_Editing-FF4444?style=flat-square&logoColor=white)
+![Motion Design](https://img.shields.io/badge/Motion_Design-FF4444?style=flat-square&logoColor=white)
 
-## Creative
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=flat-square&logo=adobe&logoColor=white)
+![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-233A51?style=flat-square&logo=davinciresolve&logoColor=white)
 
-![Music Composition](https://img.shields.io/badge/Music-Composition-red)
-![Multimedia Production](https://img.shields.io/badge/Multimedia-Production-red)
-![Visual Design](https://img.shields.io/badge/Visual-Design-red)
-![Video Editing](https://img.shields.io/badge/Video-Editing-red)
-![Motion Design](https://img.shields.io/badge/Motion-Design-red)
+---
 
-## Tools
+## 📬 Contact
 
-![Git](https://img.shields.io/badge/Git-orange?logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
-![VSCode](https://img.shields.io/badge/VSCode-blue?logo=visualstudiocode)
-![Figma](https://img.shields.io/badge/Figma-black?logo=figma)
-![Docker](https://img.shields.io/badge/Docker-blue?logo=docker)
-![Jira](https://img.shields.io/badge/Jira-blue?logo=jira)
-![Adobe](https://img.shields.io/badge/Adobe-Creative%20Suite-red?logo=adobe)
-![DaVinci Resolve](https://img.shields.io/badge/DaVinci-Resolve-black)
-
-
-## Contact
-
-📧 emma@wowen.se <br/> 
-🔗 https://www.wowen.se/ <br/> 
-🔗 https://www.linkedin.com/in/emmahager/ <br/> 
-
-
+📧 [emma@wowen.se](mailto:emma@wowen.se)  
+🌐 [wowen.se](https://www.wowen.se/)  
+💼 [linkedin.com/in/emmahager](https://www.linkedin.com/in/emmahager/)
