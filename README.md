@@ -8,13 +8,26 @@
 
 > I turn high-level strategies into practical implementation at the intersection of communication, business, and tech.
 
-My background spans design, code, communications, strategy and content. That mix lets me move easily between teams and connect dots. I combine senior-level UX/Design, product ownership, growth thinking, and technical understanding.
+> initializing system... WOWEN OS v14.3
 
-One of my strongest traits is that I'm a spin doctor. I see gaps others overlook – unbuilt opportunities, weak positioning, and cost leaks. I like building what isn't built yet, and cutting what shouldn't be there.
+Senior Product Lead/Owner operating at the intersection of product, UX, growth, and technology.
 
-Outside of work, I'm a classical music composer and multidisciplinary creative.  
-Here: occasionally sharing personal product ideas, prototypes, and small experimental builds.  
-Currently deepening my focus on **Cybersecurity**.
+Background across product ownership, UX/design, development, content, strategy and growth enables me to move across the full stack of product development – from concept to implementation.
+
+I specialize in:
+‣ Identifying gaps and unbuilt opportunities
+‣ Spot cost leaks – fast.
+‣ Fixing weak positioning and broken user flows
+‣ Turning unclear strategy into concrete product decisions
+‣ Connecting business goals with technical execution
+Experience includes:
+‣ Product ownership for Nordic markets at Bonnier
+‣ Growth and product at Publit (57% user growth)
+‣ Independent consulting across product, development, UX, and systems (WOWEN)
+
+Currently deepening expertise in **cybersecurity** (systems, risk, and infrastructure perspective).
+
+Outside of work: classical composer and multidisciplinary creative.
 
 ---
 
