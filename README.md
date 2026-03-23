@@ -8,8 +8,6 @@
 
 > I turn high-level strategies into practical implementation at the intersection of communication, business, and tech.
 
-> initializing system... WOWEN OS v14.3
-
 Senior Product Lead/Owner operating at the intersection of product, UX, growth, and technology.
 
 Background across product ownership, UX/design, development, content, strategy and growth enables me to move across the full stack of product development – from concept to implementation.
